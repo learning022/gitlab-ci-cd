@@ -6,3 +6,5 @@ Dalam pengembangan aplikasi web sering kali diperlukan waktu tambahan untuk mela
 | Materi | Link Dokumen |
 | -------- | -----------|
 | 3 Pola Deploy App Cepat dengan Gitlab CI/CD | https://drive.google.com/file/d/1XDKYtjhn6rMA-Doud-N3rk3X-8enwmtY/view?usp=share_link |
+
+![image](https://user-images.githubusercontent.com/15622730/226150076-53707765-dcab-486a-b628-8b0321486f95.png)
